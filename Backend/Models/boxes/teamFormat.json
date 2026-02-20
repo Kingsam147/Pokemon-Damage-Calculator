@@ -1,0 +1,40 @@
+{
+  "myBox": {
+    "trainerInfo": {
+      "name": "",
+      "rules": "",
+      "format": "Singles",
+      "partner": ""
+
+    },
+    "pokemon1Name": {}, 
+    "pokemon2Name": {}, 
+    "pokemon3Name": {}, 
+    "pokemon4Name": {}, 
+    "pokemon5Name": {}, 
+    "pokemon6Name": {}, 
+    "pokemon7Name": {}, 
+    "pokemon8Name": {}, 
+    "pokemon9Name": {}, 
+    "pokemon10Name": {}
+  }, 
+  "BrockTeam": {
+    "trainerInfo": {
+      "name": "", 
+      "rules": "", 
+      "format": "", 
+      "partner": ""
+    },
+    "pokemon1Name": {}, 
+    "pokemon2Name": {}, 
+    "pokemon3Name": {}, 
+    "pokemon4Name": {}, 
+    "pokemon5Name": {}, 
+    "pokemon6Name": {}
+  }, 
+  "Brendan(Help1)" : {
+    "pokemon1Name": {}, 
+    "pokemon2Name": {}, 
+    "pokemon3Name": {}
+  }
+}
